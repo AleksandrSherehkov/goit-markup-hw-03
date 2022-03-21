@@ -297,7 +297,7 @@ header {
   flex-wrap: wrap;
 }
 .portfolio-card {
-  width: calc ((100%-60px) / 3);
+  width: calc((100%-60px) / 3);
   border-bottom: 1px solid #eeeeee;
 }
 /* .portfolio-card {
