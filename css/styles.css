@@ -375,7 +375,7 @@ header {
 .address-list {
   margin-top: 20px;
 }
-.address .address-title {
+.address-title {
 
   color: var(--third-text-color);
   font-style: normal;
