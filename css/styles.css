@@ -375,7 +375,7 @@ header {
 .address-list {
   margin-top: 20px;
 }
-.address-title {
+.address .address-title {
 
   color: var(--third-text-color);
   font-style: normal;
@@ -393,7 +393,6 @@ header {
 .address .link {
   display: inline-block;
   
-
   color: var(--address-link-color);
   font-style: normal;
   font-size: 14px;
